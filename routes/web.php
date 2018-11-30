@@ -25,5 +25,9 @@ Route::get('login/twitter/callback', 'SocialController@TwitterCallback');
 
 Route::get('login/{provider}/callback','SocialController@Callback');
 
+Route::get('/.well-known/acme-challenge/YgpdQhfEdKopkyWY8LdoB1Of0yGCgzZuuGAs6GUUKtw',function(){
+    echo "YgpdQhfEdKopkyWY8LdoB1Of0yGCgzZuuGAs6GUUKtw.AUnH1fm6XV27IS37ZlB7CYpoW9AhVim434gaC4pXuA8";
+});
+
 
 
