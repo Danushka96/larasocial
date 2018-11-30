@@ -11,6 +11,8 @@ Social Login Application Using Laravel socialite
 6. Gitlab
 7. Bitbucket
 
+### Demo Link: [http://larasocialauth.herokuapp.com/login](http://larasocialauth.herokuapp.com/login)
+
 ## How to config
 
 If you need to use one or more of the above services you need to create apps for each and every service you goning to use. 
