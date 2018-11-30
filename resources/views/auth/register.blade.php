@@ -79,7 +79,7 @@
                              <a href="{{ url('/login/github') }}" class="btn btn-google-plus"> Github</a>
                              <a href="{{ url('/login/linkedin') }}" class="btn btn-google-plus"> Linkedin</a>
                              <a href="{{ url('/login/gitlab') }}" class="btn btn-google-plus"> Gitlab</a>
-                             <a href="{{ url('/login/gitlab') }}" class="btn btn-google-plus"> BitBucket</a>
+                             <a href="{{ url('/login/bitbucket') }}" class="btn btn-google-plus"> BitBucket</a>
                         </div>
                     </div>
                 </form>
